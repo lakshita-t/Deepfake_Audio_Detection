@@ -1,0 +1,9 @@
+Requirements
+
+streamlit
+torch
+torchvision
+librosa
+numpy
+soundfile
+audioread
