@@ -131,10 +131,10 @@ def predict(file_path):
 # -----------------------------
 st.set_page_config(
     page_title="Deepfake Audio Detector",
-    page_icon="🎙️"
+    page_icon=""
 )
 
-st.title("🎙️ Deepfake Audio Detection")
+st.title("Deepfake Audio Detection")
 
 st.write(
     "Upload an audio file and determine "
